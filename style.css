@@ -1,0 +1,26 @@
+body{
+    overflow-y: hidden;
+}
+
+#title{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 1.5%;
+}
+
+#mainarea{
+    padding: 10%;
+    display: block;
+    margin: auto;
+    margin-bottom: 1.5%;
+    
+}
+
+
+#btn{
+    display: block;
+    margin: auto;
+    
+    
+}
